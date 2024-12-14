@@ -20,3 +20,6 @@ The Campus Event Management Hub aims to simplify event coordination and provide 
 ![running server backend](https://github.com/user-attachments/assets/28899890-dc9d-47df-94e5-392fe75c1256)
 ![pg Admin 1](https://github.com/user-attachments/assets/01782528-fd3f-47b7-95f1-4cb748547285)
 ![login3](https://github.com/user-attachments/assets/cde44be2-7a13-49c6-b68e-44ffed980bbe)
+
+BACKEND:https://end-of-sem-backend.onrender.com
+FRONTEND:http://localhost:5173/
