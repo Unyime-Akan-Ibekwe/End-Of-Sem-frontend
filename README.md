@@ -4,6 +4,13 @@ Key features include: Event Listings: View categorized events with all relevant 
 
 The Campus Event Management Hub aims to simplify event coordination and provide an engaging platform for students and staff to stay informed and actively participate in campus life.
 
-login2 login1 frontend running server frontend running server backend pg Admin 1 login3
+![running server frontend](https://github.com/user-attachments/assets/3b0db781-ff52-4531-878f-3d80547bc884)
+![running server backend](https://github.com/user-attachments/assets/4a6f7e83-d028-4852-942e-9909610ffad5)
+![pg Admin 1](https://github.com/user-attachments/assets/25d452d7-28cf-440a-9db3-1c249d30db11)
+![login3](https://github.com/user-attachments/assets/234c683f-8fc6-41ce-99ff-1d0ca3a334b4)
+![login2](https://github.com/user-attachments/assets/b7a438ce-0b1e-4c68-a77d-d9082ec611c9)
+![login1](https://github.com/user-attachments/assets/32845fd9-6a0d-4b49-b238-20064a5f749c)
+![frontend](https://github.com/user-attachments/assets/32a7736a-5f4b-4cdc-b151-42f3ceb7c9f9)
 
-BACKEND:https://end-of-sem-backend.onrender.com FRONTEND:http://localhost:5173/
+
+BACKEND:https://end-of-sem-backend.onrender.com FRONTEND:https://end-of-sem-frontend.onrender.com, http://localhost:5173/
